@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblib.a  CMakeFiles/lib.dir/Champion.cpp.o CMakeFiles/lib.dir/Fight.cpp.o CMakeFiles/lib.dir/FightParser.cpp.o CMakeFiles/lib.dir/Leona.cpp.o CMakeFiles/lib.dir/Position.cpp.o CMakeFiles/lib.dir/Spell.cpp.o CMakeFiles/lib.dir/Stats.cpp.o CMakeFiles/lib.dir/Team.cpp.o CMakeFiles/lib.dir/main.cpp.o
+/usr/bin/ranlib liblib.a
