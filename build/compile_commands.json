@@ -1,0 +1,61 @@
+[
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++   -I. -I../lib  -g   -std=gnu++11 -o CMakeFiles/ProjetCode.dir/ProjetMain.cpp.o -c /home/jacob-l/ProjetCode/ProjetMain.cpp",
+  "file": "/home/jacob-l/ProjetCode/ProjetMain.cpp"
+},
+
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o lib/CMakeFiles/lib.dir/Champion.cpp.o -c /home/jacob-l/ProjetCode/lib/Champion.cpp",
+  "file": "/home/jacob-l/ProjetCode/lib/Champion.cpp"
+},
+
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o lib/CMakeFiles/lib.dir/Fight.cpp.o -c /home/jacob-l/ProjetCode/lib/Fight.cpp",
+  "file": "/home/jacob-l/ProjetCode/lib/Fight.cpp"
+},
+
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o lib/CMakeFiles/lib.dir/FightParser.cpp.o -c /home/jacob-l/ProjetCode/lib/FightParser.cpp",
+  "file": "/home/jacob-l/ProjetCode/lib/FightParser.cpp"
+},
+
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o lib/CMakeFiles/lib.dir/Leona.cpp.o -c /home/jacob-l/ProjetCode/lib/Leona.cpp",
+  "file": "/home/jacob-l/ProjetCode/lib/Leona.cpp"
+},
+
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o lib/CMakeFiles/lib.dir/Position.cpp.o -c /home/jacob-l/ProjetCode/lib/Position.cpp",
+  "file": "/home/jacob-l/ProjetCode/lib/Position.cpp"
+},
+
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o lib/CMakeFiles/lib.dir/Spell.cpp.o -c /home/jacob-l/ProjetCode/lib/Spell.cpp",
+  "file": "/home/jacob-l/ProjetCode/lib/Spell.cpp"
+},
+
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o lib/CMakeFiles/lib.dir/Stats.cpp.o -c /home/jacob-l/ProjetCode/lib/Stats.cpp",
+  "file": "/home/jacob-l/ProjetCode/lib/Stats.cpp"
+},
+
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o lib/CMakeFiles/lib.dir/Team.cpp.o -c /home/jacob-l/ProjetCode/lib/Team.cpp",
+  "file": "/home/jacob-l/ProjetCode/lib/Team.cpp"
+},
+
+{
+  "directory": "/home/jacob-l/ProjetCode/build",
+  "command": "/usr/bin/g++    -g   -std=gnu++11 -o lib/CMakeFiles/lib.dir/main.cpp.o -c /home/jacob-l/ProjetCode/lib/main.cpp",
+  "file": "/home/jacob-l/ProjetCode/lib/main.cpp"
+}
+]
